@@ -1,0 +1,1 @@
+AI_Resume_Evaluator is an intelligent resume-analysis system designed to help job seekers and recruiters quickly evaluate the quality, relevance, and clarity of a resume. The project leverages natural language processing (NLP) and machine-learning techniques to automatically score resumes, identify strengths and weaknesses, and generate human-like recommendations for improvement.
